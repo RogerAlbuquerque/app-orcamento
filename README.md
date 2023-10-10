@@ -4,8 +4,7 @@ APP javascript para receber e guardar dados de orçamento de gastos mensais e an
 Projeto feito para praticar crud (sem o edit) com javascript
 
 
-#EN:
-
+#### English:
 
 Javascript APP to receive and save monthly and annual spending budget data.
 
